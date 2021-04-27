@@ -2,5 +2,3 @@ before rebase
 
 for rebase
 
-for rebase
-
